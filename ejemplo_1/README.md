@@ -8,5 +8,3 @@ podra agregar, modificar, eliminar o ver la lista de tareas ( CRUD )
 
 Espero les guste...
 
-( Tambien estoy aprendiendo, si algo no se encuentra correctamente definido me dicen )
-
