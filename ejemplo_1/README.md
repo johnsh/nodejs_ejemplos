@@ -10,3 +10,4 @@ Espero les guste...
 
 ( Tambien estoy aprendiendo, si algo no se encuentra correctamente definido me dicen )
 
+Funcionalidades incluidas
