@@ -1,0 +1,12 @@
+Version 1.0 - Sistema de tareas pendientes.
+
+El siguiente sistema, permite a un usuario almacenar las tareas que
+tiene pendientes.
+
+Como requisito el usuario debe autenticarse, despues de hacerlo
+podra agregar, modificar, eliminar o ver la lista de tareas ( CRUD )
+
+Espero les guste...
+
+( Tambien estoy aprendiendo, si algo no se encuentra correctamente definido me dicen )
+
